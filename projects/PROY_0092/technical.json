@@ -1,0 +1,15 @@
+{
+    "tamano": "Centro turístico",
+    "tecnologia": "Servicios turísticos",
+    "infraestructura": "Complejo turístico",
+    "equipos": [
+        "Mobiliario",
+        "Equipamiento recreativo",
+        "Sistema de reservas"
+    ],
+    "personal": [
+        "Guías",
+        "Administrador",
+        "Personal operativo"
+    ]
+}

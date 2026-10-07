@@ -1,0 +1,13 @@
+{
+    "problema_central": "Deficiente prestacion de servicios de transporte",
+    "causas": [
+        "Flota insuficiente",
+        "Altos costos operativos",
+        "Problemas logisticos"
+    ],
+    "efectos": [
+        "Baja cobertura de servicio",
+        "Incremento de costos",
+        "Perdida de competitividad"
+    ]
+}

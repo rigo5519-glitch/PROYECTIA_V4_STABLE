@@ -1,0 +1,22 @@
+{
+    "producto": "Lácteos",
+    "precio": "Competitivo",
+    "plaza": "Mercado regional",
+    "promocion": [
+        "Redes Sociales",
+        "Página Web",
+        "Publicidad local"
+    ],
+    "canales": [
+        "Supermercados",
+        "Tiendas",
+        "Distribuidores"
+    ],
+    "segmentacion": {
+        "geografica": "Regional",
+        "demografica": "Población económicamente activa",
+        "socioeconomica": "Media"
+    },
+    "estrategia": "Penetración de mercado",
+    "mercado_objetivo": 14000.0
+}

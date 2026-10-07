@@ -1,0 +1,137 @@
+{
+    "idea": {
+        "idea_original": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    "diagnostic": {
+        "experiencia": "Experiencia recuperada: PROY_0012",
+        "problema_central": "Bajo aprovechamiento industrial de la produccion",
+        "causas": [
+            "Limitada capacidad de procesamiento",
+            "Escasa tecnologia industrial",
+            "Bajo valor agregado"
+        ],
+        "efectos": [
+            "Menores ingresos de productores",
+            "Perdida de competitividad",
+            "Desaprovechamiento productivo"
+        ]
+    },
+    "problem_tree": {
+        "problema_central": "Bajo aprovechamiento industrial de la produccion",
+        "causas": [
+            {
+                "causa": "Limitada capacidad de procesamiento",
+                "subcausas": [
+                    "Origen relacionado con Limitada capacidad de procesamiento",
+                    "Limitaciones asociadas a Limitada capacidad de procesamiento"
+                ]
+            },
+            {
+                "causa": "Escasa tecnologia industrial",
+                "subcausas": [
+                    "Origen relacionado con Escasa tecnologia industrial",
+                    "Limitaciones asociadas a Escasa tecnologia industrial"
+                ]
+            },
+            {
+                "causa": "Bajo valor agregado",
+                "subcausas": [
+                    "Origen relacionado con Bajo valor agregado",
+                    "Limitaciones asociadas a Bajo valor agregado"
+                ]
+            }
+        ],
+        "efectos": [
+            {
+                "efecto": "Menores ingresos de productores",
+                "subefectos": [
+                    "Impacto asociado a Menores ingresos de productores",
+                    "Consecuencia derivada de Menores ingresos de productores"
+                ]
+            },
+            {
+                "efecto": "Perdida de competitividad",
+                "subefectos": [
+                    "Impacto asociado a Perdida de competitividad",
+                    "Consecuencia derivada de Perdida de competitividad"
+                ]
+            },
+            {
+                "efecto": "Desaprovechamiento productivo",
+                "subefectos": [
+                    "Impacto asociado a Desaprovechamiento productivo",
+                    "Consecuencia derivada de Desaprovechamiento productivo"
+                ]
+            }
+        ]
+    },
+    "objective_tree": {
+        "objetivo_general": "Incrementar aprovechamiento industrial de la produccion",
+        "medios": [
+            "Fortalecer limitada capacidad de procesamiento",
+            "Fortalecer escasa tecnologia industrial",
+            "Fortalecer bajo valor agregado"
+        ],
+        "fines": [
+            "Reducir menores ingresos de productores",
+            "Reducir perdida de competitividad",
+            "Reducir desaprovechamiento productivo"
+        ]
+    },
+    "logical_framework": {
+        "fin": "Contribuir al desarrollo sostenible del sector",
+        "proposito": "Incrementar aprovechamiento industrial de la produccion",
+        "componentes": [
+            "Infraestructura implementada",
+            "Tecnologia instalada",
+            "Capacitacion ejecutada"
+        ],
+        "actividades": [
+            "Diseño",
+            "Adquisicion",
+            "Implementacion",
+            "Operacion"
+        ],
+        "indicadores": [
+            "Porcentaje de avance",
+            "Cobertura alcanzada",
+            "Nivel de productividad"
+        ],
+        "medios_verificacion": [
+            "Informes tecnicos",
+            "Registros operativos",
+            "Actas de seguimiento"
+        ],
+        "supuestos": [
+            "Disponibilidad financiera",
+            "Apoyo institucional",
+            "Condiciones favorables del entorno"
+        ]
+    },
+    "market": {
+        "producto": "Lácteos",
+        "mercado_objetivo": "Consumidores finales",
+        "clientes": "Hogares y comercios",
+        "demanda": "Por estimar",
+        "oferta": "Por estimar",
+        "competencia": "Por identificar"
+    },
+    "technical": {
+        "tamano": "Pequeña industria",
+        "tecnologia": "Semiindustrial",
+        "infraestructura": "Planta de procesamiento",
+        "equipos": [
+            "Tanque de enfriamiento",
+            "Pasteurizador",
+            "Envasadora"
+        ],
+        "personal": [
+            "Operador",
+            "Supervisor",
+            "Administrador"
+        ]
+    }
+}

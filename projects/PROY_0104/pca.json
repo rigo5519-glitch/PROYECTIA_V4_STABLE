@@ -1,0 +1,66 @@
+{
+    "varianza": [
+        {
+            "Componente": 1,
+            "Varianza_%": 59.21,
+            "Acumulada_%": 59.21
+        },
+        {
+            "Componente": 2,
+            "Varianza_%": 20.82,
+            "Acumulada_%": 80.03
+        },
+        {
+            "Componente": 3,
+            "Varianza_%": 19.94,
+            "Acumulada_%": 99.97
+        },
+        {
+            "Componente": 4,
+            "Varianza_%": 0.03,
+            "Acumulada_%": 100.0
+        },
+        {
+            "Componente": 5,
+            "Varianza_%": 0.0,
+            "Acumulada_%": 100.0
+        }
+    ],
+    "cargas": {
+        "CP1": {
+            "Precio_Unitario": 0.343,
+            "Produccion": 0.462,
+            "Costos": -0.068,
+            "Ventas": 0.577,
+            "VAN": 0.576
+        },
+        "CP2": {
+            "Precio_Unitario": 0.372,
+            "Produccion": -0.136,
+            "Costos": 0.903,
+            "Ventas": 0.114,
+            "VAN": -0.119
+        },
+        "CP3": {
+            "Precio_Unitario": 0.713,
+            "Produccion": -0.592,
+            "Costos": -0.37,
+            "Ventas": -0.045,
+            "VAN": 0.05
+        },
+        "CP4": {
+            "Precio_Unitario": 0.486,
+            "Produccion": 0.647,
+            "Costos": -0.099,
+            "Ventas": -0.429,
+            "VAN": -0.39
+        },
+        "CP5": {
+            "Precio_Unitario": -0.0,
+            "Produccion": -0.0,
+            "Costos": 0.179,
+            "Ventas": -0.685,
+            "VAN": 0.706
+        }
+    }
+}

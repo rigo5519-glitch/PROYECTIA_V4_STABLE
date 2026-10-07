@@ -1,0 +1,23 @@
+{
+    "procesos": [
+        "Captacion",
+        "Validacion",
+        "Procesamiento",
+        "Entrega"
+    ],
+    "sipoc": {
+        "Proveedor": "Usuarios",
+        "Entrada": "Datos",
+        "Proceso": "Evaluacion",
+        "Salida": "Resultados",
+        "Cliente": "Gerencia"
+    },
+    "cadena_valor": [
+        "Captacion",
+        "Validacion",
+        "Analitica",
+        "IA",
+        "XAI",
+        "Reportes"
+    ]
+}

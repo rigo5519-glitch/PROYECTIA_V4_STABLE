@@ -1,0 +1,49 @@
+{
+    "problema_central": "Baja producción tecnificada y comercialización de cuyes",
+    "causas": [
+        {
+            "causa": "Limitado manejo técnico",
+            "subcausas": [
+                "Origen relacionado con Limitado manejo técnico",
+                "Limitaciones asociadas a Limitado manejo técnico"
+            ]
+        },
+        {
+            "causa": "Escasa asistencia veterinaria",
+            "subcausas": [
+                "Origen relacionado con Escasa asistencia veterinaria",
+                "Limitaciones asociadas a Escasa asistencia veterinaria"
+            ]
+        },
+        {
+            "causa": "Baja organización comercial",
+            "subcausas": [
+                "Origen relacionado con Baja organización comercial",
+                "Limitaciones asociadas a Baja organización comercial"
+            ]
+        }
+    ],
+    "efectos": [
+        {
+            "efecto": "Bajos ingresos de productores",
+            "subefectos": [
+                "Impacto asociado a Bajos ingresos de productores",
+                "Consecuencia derivada de Bajos ingresos de productores"
+            ]
+        },
+        {
+            "efecto": "Menor productividad",
+            "subefectos": [
+                "Impacto asociado a Menor productividad",
+                "Consecuencia derivada de Menor productividad"
+            ]
+        },
+        {
+            "efecto": "Oferta insuficiente para el mercado",
+            "subefectos": [
+                "Impacto asociado a Oferta insuficiente para el mercado",
+                "Consecuencia derivada de Oferta insuficiente para el mercado"
+            ]
+        }
+    ]
+}

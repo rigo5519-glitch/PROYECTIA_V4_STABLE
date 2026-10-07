@@ -1,0 +1,17 @@
+{
+    "sector": "Educacion",
+
+    "subsectores": [
+        "Educacion Basica",
+        "Educacion Superior",
+        "Capacitacion",
+        "Formacion Tecnica"
+    ],
+
+    "problemas_frecuentes": [
+        "Bajo rendimiento academico",
+        "Infraestructura deficiente",
+        "Limitado acceso tecnologico",
+        "Insuficiente capacitacion docente"
+    ]
+}

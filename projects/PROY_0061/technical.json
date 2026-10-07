@@ -1,0 +1,15 @@
+{
+    "tamano": "Pequeña empresa",
+    "tecnologia": "Sistema logístico",
+    "infraestructura": "Patio de maniobras",
+    "equipos": [
+        "Camiones",
+        "GPS",
+        "Software de gestión"
+    ],
+    "personal": [
+        "Conductores",
+        "Supervisor",
+        "Administrador"
+    ]
+}

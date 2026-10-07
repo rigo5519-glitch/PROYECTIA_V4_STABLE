@@ -1,0 +1,17 @@
+{
+    "sector": "Transporte",
+
+    "subsectores": [
+        "Carga Pesada",
+        "Transporte Urbano",
+        "Logistica",
+        "Movilidad"
+    ],
+
+    "problemas_frecuentes": [
+        "Flota insuficiente",
+        "Altos costos operativos",
+        "Problemas logistico-operativos",
+        "Deficiente infraestructura vial"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "sector": "Salud",
+
+    "subsectores": [
+        "Atencion Primaria",
+        "Hospitalaria",
+        "Prevencion",
+        "Salud Comunitaria"
+    ],
+
+    "problemas_frecuentes": [
+        "Cobertura insuficiente",
+        "Deficiente equipamiento",
+        "Limitado acceso a servicios",
+        "Falta de personal especializado"
+    ]
+}

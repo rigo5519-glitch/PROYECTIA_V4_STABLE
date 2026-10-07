@@ -1,0 +1,30 @@
+{
+    "fin": "Contribuir al desarrollo sostenible del sector",
+    "proposito": "Mejorar problema no identificado",
+    "componentes": [
+        "Infraestructura implementada",
+        "Tecnologia instalada",
+        "Capacitacion ejecutada"
+    ],
+    "actividades": [
+        "Diseño",
+        "Adquisicion",
+        "Implementacion",
+        "Operacion"
+    ],
+    "indicadores": [
+        "Porcentaje de avance",
+        "Cobertura alcanzada",
+        "Nivel de productividad"
+    ],
+    "medios_verificacion": [
+        "Informes tecnicos",
+        "Registros operativos",
+        "Actas de seguimiento"
+    ],
+    "supuestos": [
+        "Disponibilidad financiera",
+        "Apoyo institucional",
+        "Condiciones favorables del entorno"
+    ]
+}

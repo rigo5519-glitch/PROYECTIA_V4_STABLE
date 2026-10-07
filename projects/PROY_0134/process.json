@@ -1,0 +1,25 @@
+{
+    "procesos": [
+        "Recepcion de Materia Prima",
+        "Clasificacion",
+        "Procesamiento",
+        "Control de Calidad",
+        "Almacenamiento",
+        "Despacho"
+    ],
+    "sipoc": {
+        "Proveedor": "Usuarios",
+        "Entrada": "Datos",
+        "Proceso": "Evaluacion",
+        "Salida": "Resultados",
+        "Cliente": "Gerencia"
+    },
+    "cadena_valor": [
+        "Captacion",
+        "Validacion",
+        "Analitica",
+        "IA",
+        "XAI",
+        "Reportes"
+    ]
+}

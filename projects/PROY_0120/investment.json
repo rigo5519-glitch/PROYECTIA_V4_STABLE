@@ -1,0 +1,9 @@
+{
+    "categoria": "MEDIANO",
+    "terreno": 30000.0,
+    "infraestructura": 75000.0,
+    "equipos": 150000,
+    "vehiculo": 20000,
+    "capital_trabajo": 22500.0,
+    "inversion_total": 297500.0
+}

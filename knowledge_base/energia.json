@@ -1,0 +1,17 @@
+{
+    "sector": "Energia",
+
+    "subsectores": [
+        "Solar",
+        "Eolica",
+        "Hidroelectrica",
+        "Biomasa"
+    ],
+
+    "problemas_frecuentes": [
+        "Cobertura energetica insuficiente",
+        "Dependencia de combustibles fosiles",
+        "Altos costos de energia",
+        "Infraestructura energetica limitada"
+    ]
+}

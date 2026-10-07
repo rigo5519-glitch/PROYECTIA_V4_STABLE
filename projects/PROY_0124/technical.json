@@ -1,0 +1,17 @@
+{
+    "tamano": "Centro de producción pecuaria",
+    "tecnologia": "Crianza tecnificada de cuyes",
+    "infraestructura": "Galpones de reproducción y engorde",
+    "equipos": [
+        "Jaulas",
+        "Comederos",
+        "Bebederos",
+        "Balanza",
+        "Equipos sanitarios"
+    ],
+    "personal": [
+        "Administrador",
+        "Técnico Pecuario",
+        "Operarios"
+    ]
+}

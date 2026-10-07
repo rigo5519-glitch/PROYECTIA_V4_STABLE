@@ -1,0 +1,269 @@
+{
+    "idea": {
+        "idea_original": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    "diagnostic": {
+        "experiencia": "Experiencia recuperada: PROY_0012",
+        "problema_central": "Bajo aprovechamiento industrial de la produccion",
+        "causas": [
+            "Limitada capacidad de procesamiento",
+            "Escasa tecnologia industrial",
+            "Bajo valor agregado"
+        ],
+        "efectos": [
+            "Menores ingresos de productores",
+            "Perdida de competitividad",
+            "Desaprovechamiento productivo"
+        ]
+    },
+    "problem_tree": {
+        "problema_central": "Bajo aprovechamiento industrial de la produccion",
+        "causas": [
+            {
+                "causa": "Limitada capacidad de procesamiento",
+                "subcausas": [
+                    "Origen relacionado con Limitada capacidad de procesamiento",
+                    "Limitaciones asociadas a Limitada capacidad de procesamiento"
+                ]
+            },
+            {
+                "causa": "Escasa tecnologia industrial",
+                "subcausas": [
+                    "Origen relacionado con Escasa tecnologia industrial",
+                    "Limitaciones asociadas a Escasa tecnologia industrial"
+                ]
+            },
+            {
+                "causa": "Bajo valor agregado",
+                "subcausas": [
+                    "Origen relacionado con Bajo valor agregado",
+                    "Limitaciones asociadas a Bajo valor agregado"
+                ]
+            }
+        ],
+        "efectos": [
+            {
+                "efecto": "Menores ingresos de productores",
+                "subefectos": [
+                    "Impacto asociado a Menores ingresos de productores",
+                    "Consecuencia derivada de Menores ingresos de productores"
+                ]
+            },
+            {
+                "efecto": "Perdida de competitividad",
+                "subefectos": [
+                    "Impacto asociado a Perdida de competitividad",
+                    "Consecuencia derivada de Perdida de competitividad"
+                ]
+            },
+            {
+                "efecto": "Desaprovechamiento productivo",
+                "subefectos": [
+                    "Impacto asociado a Desaprovechamiento productivo",
+                    "Consecuencia derivada de Desaprovechamiento productivo"
+                ]
+            }
+        ]
+    },
+    "objective_tree": {
+        "objetivo_general": "Incrementar aprovechamiento industrial de la produccion",
+        "medios": [
+            "Fortalecer limitada capacidad de procesamiento",
+            "Fortalecer escasa tecnologia industrial",
+            "Fortalecer bajo valor agregado"
+        ],
+        "fines": [
+            "Reducir menores ingresos de productores",
+            "Reducir perdida de competitividad",
+            "Reducir desaprovechamiento productivo"
+        ]
+    },
+    "logical_framework": {
+        "fin": "Contribuir al desarrollo sostenible del sector",
+        "proposito": "Incrementar aprovechamiento industrial de la produccion",
+        "componentes": [
+            "Infraestructura implementada",
+            "Tecnologia instalada",
+            "Capacitacion ejecutada"
+        ],
+        "actividades": [
+            "Diseño",
+            "Adquisicion",
+            "Implementacion",
+            "Operacion"
+        ],
+        "indicadores": [
+            "Porcentaje de avance",
+            "Cobertura alcanzada",
+            "Nivel de productividad"
+        ],
+        "medios_verificacion": [
+            "Informes tecnicos",
+            "Registros operativos",
+            "Actas de seguimiento"
+        ],
+        "supuestos": [
+            "Disponibilidad financiera",
+            "Apoyo institucional",
+            "Condiciones favorables del entorno"
+        ]
+    },
+    "market": {
+        "poblacion_objetivo": 50000,
+        "aceptacion": 80.0,
+        "mercado_potencial": 40000.0,
+        "mercado_objetivo": 14000.0,
+        "demanda_potencial": 14000.0,
+        "demanda_efectiva": 10500.0,
+        "oferta_actual": 12000,
+        "demanda_insatisfecha": 0,
+        "indice_saturacion": 30.0,
+        "indice_viabilidad": 87.5,
+        "clasificacion": "ALTA"
+    },
+    "technical": {
+        "tamano": "Pequeña industria",
+        "tecnologia": "Semiindustrial",
+        "infraestructura": "Planta de procesamiento",
+        "equipos": [
+            "Tanque de enfriamiento",
+            "Pasteurizador",
+            "Envasadora"
+        ],
+        "personal": [
+            "Operador",
+            "Supervisor",
+            "Administrador"
+        ]
+    },
+    "localization": {
+        "ubicacion_optima": "Riobamba",
+        "score_integral": 62.5,
+        "ranking": [
+            {
+                "Alternativa": "Riobamba",
+                "score_topsis": 0.6250076665213903
+            },
+            {
+                "Alternativa": "Ambato",
+                "score_topsis": 0.5268576260356921
+            },
+            {
+                "Alternativa": "Cuenca",
+                "score_topsis": 0.47705053319056506
+            },
+            {
+                "Alternativa": "Latacunga",
+                "score_topsis": 0.38961973873567485
+            }
+        ]
+    },
+    "size": {
+        "ubicacion_optima": "Riobamba",
+        "demanda_maxima": 12810,
+        "capacidad_instalada": 14091,
+        "categoria": "MEDIANO",
+        "factibilidad": "FACTIBLE",
+        "score_tamano": 79.96
+    },
+    "investment": {
+        "categoria": "MEDIANO",
+        "terreno": 30000.0,
+        "infraestructura": 75000.0,
+        "equipos": 150000,
+        "vehiculo": 20000,
+        "capital_trabajo": 22500.0,
+        "inversion_total": 297500.0
+    },
+    "costs": {
+        "personal": 60000,
+        "energia": 16909.2,
+        "mantenimiento": 5072.76,
+        "administracion": 12000.0,
+        "costos_operativos": 93981.96
+    },
+    "revenue": {
+        "demanda_maxima": 14000.0,
+        "capacidad_instalada": 14091,
+        "produccion_real": 14000.0,
+        "precio_unitario": 25,
+        "ventas": 350000.0
+    },
+    "cash_flow": {
+        "inversion_inicial": 297500.0,
+        "flujo_operativo": 195763.53,
+        "horizonte": 10,
+        "flujos": [
+            137034.47099999996,
+            156610.824,
+            176187.17699999997,
+            185975.35349999997,
+            195763.52999999997,
+            195763.52999999997,
+            195763.52999999997,
+            195763.52999999997,
+            195763.52999999997,
+            195763.52999999997
+        ],
+        "tabla_flujo": [
+            {
+                "Periodo": 0,
+                "Flujo": -297500.0,
+                "Flujo_Acumulado": -297500.0
+            },
+            {
+                "Periodo": 1,
+                "Flujo": 137034.47099999996,
+                "Flujo_Acumulado": -160465.52900000004
+            },
+            {
+                "Periodo": 2,
+                "Flujo": 156610.824,
+                "Flujo_Acumulado": -3854.7050000000454
+            },
+            {
+                "Periodo": 3,
+                "Flujo": 176187.17699999997,
+                "Flujo_Acumulado": 172332.47199999992
+            },
+            {
+                "Periodo": 4,
+                "Flujo": 185975.35349999997,
+                "Flujo_Acumulado": 358307.8254999999
+            },
+            {
+                "Periodo": 5,
+                "Flujo": 195763.52999999997,
+                "Flujo_Acumulado": 554071.3554999998
+            },
+            {
+                "Periodo": 6,
+                "Flujo": 195763.52999999997,
+                "Flujo_Acumulado": 749834.8854999999
+            },
+            {
+                "Periodo": 7,
+                "Flujo": 195763.52999999997,
+                "Flujo_Acumulado": 945598.4154999999
+            },
+            {
+                "Periodo": 8,
+                "Flujo": 195763.52999999997,
+                "Flujo_Acumulado": 1141361.9455
+            },
+            {
+                "Periodo": 9,
+                "Flujo": 195763.52999999997,
+                "Flujo_Acumulado": 1337125.4755
+            },
+            {
+                "Periodo": 10,
+                "Flujo": 195763.52999999997,
+                "Flujo_Acumulado": 1532889.0055
+            }
+        ]
+    }
+}

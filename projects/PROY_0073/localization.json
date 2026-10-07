@@ -1,0 +1,22 @@
+{
+    "ubicacion_optima": "Riobamba",
+    "score_integral": 62.5,
+    "ranking": [
+        {
+            "Alternativa": "Riobamba",
+            "score_topsis": 0.6250076665213903
+        },
+        {
+            "Alternativa": "Ambato",
+            "score_topsis": 0.5268576260356921
+        },
+        {
+            "Alternativa": "Cuenca",
+            "score_topsis": 0.47705053319056506
+        },
+        {
+            "Alternativa": "Latacunga",
+            "score_topsis": 0.38961973873567485
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+PROYECTIA V4.0 RC1
+
+Fecha:
+04/10/2026
+
+Estado:
+Release Candidate
+
+Arquitectura:
+Completa
+
+Motores:
+Operativos
+
+Knowledge Graph:
+Operativo
+
+RAG:
+Operativo
+
+Copilot:
+Operativo
+
+Documentos:
+Operativos

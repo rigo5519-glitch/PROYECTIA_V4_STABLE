@@ -1,0 +1,22 @@
+{
+    "producto": "Cacao procesado",
+    "precio": "Competitivo",
+    "plaza": "Mercado regional",
+    "promocion": [
+        "Redes Sociales",
+        "Página Web",
+        "Publicidad local"
+    ],
+    "canales": [
+        "Exportadores",
+        "Industria alimentaria",
+        "Comercializadores"
+    ],
+    "segmentacion": {
+        "geografica": "Regional",
+        "demografica": "Población económicamente activa",
+        "socioeconomica": "Media"
+    },
+    "estrategia": "Penetración de mercado",
+    "mercado_objetivo": 14000.0
+}

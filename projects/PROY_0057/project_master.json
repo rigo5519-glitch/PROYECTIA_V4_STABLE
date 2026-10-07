@@ -1,0 +1,172 @@
+{
+    "idea": {
+        "idea_original": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    "diagnostic": {
+        "experiencia": "Experiencia recuperada: PROY_0013",
+        "problema_central": "Deficiente prestacion de servicios de transporte",
+        "causas": [
+            "Flota insuficiente",
+            "Altos costos operativos",
+            "Problemas logisticos"
+        ],
+        "efectos": [
+            "Baja cobertura de servicio",
+            "Incremento de costos",
+            "Perdida de competitividad"
+        ]
+    },
+    "problem_tree": {
+        "problema_central": "Deficiente prestacion de servicios de transporte",
+        "causas": [
+            {
+                "causa": "Flota insuficiente",
+                "subcausas": [
+                    "Origen relacionado con Flota insuficiente",
+                    "Limitaciones asociadas a Flota insuficiente"
+                ]
+            },
+            {
+                "causa": "Altos costos operativos",
+                "subcausas": [
+                    "Origen relacionado con Altos costos operativos",
+                    "Limitaciones asociadas a Altos costos operativos"
+                ]
+            },
+            {
+                "causa": "Problemas logisticos",
+                "subcausas": [
+                    "Origen relacionado con Problemas logisticos",
+                    "Limitaciones asociadas a Problemas logisticos"
+                ]
+            }
+        ],
+        "efectos": [
+            {
+                "efecto": "Baja cobertura de servicio",
+                "subefectos": [
+                    "Impacto asociado a Baja cobertura de servicio",
+                    "Consecuencia derivada de Baja cobertura de servicio"
+                ]
+            },
+            {
+                "efecto": "Incremento de costos",
+                "subefectos": [
+                    "Impacto asociado a Incremento de costos",
+                    "Consecuencia derivada de Incremento de costos"
+                ]
+            },
+            {
+                "efecto": "Perdida de competitividad",
+                "subefectos": [
+                    "Impacto asociado a Perdida de competitividad",
+                    "Consecuencia derivada de Perdida de competitividad"
+                ]
+            }
+        ]
+    },
+    "objective_tree": {
+        "objetivo_general": "Mejorar prestacion de servicios de transporte",
+        "medios": [
+            "Fortalecer flota insuficiente",
+            "Fortalecer altos costos operativos",
+            "Fortalecer problemas logisticos"
+        ],
+        "fines": [
+            "Reducir baja cobertura de servicio",
+            "Reducir incremento de costos",
+            "Reducir perdida de competitividad"
+        ]
+    },
+    "logical_framework": {
+        "fin": "Contribuir al desarrollo sostenible del sector",
+        "proposito": "Mejorar prestacion de servicios de transporte",
+        "componentes": [
+            "Infraestructura implementada",
+            "Tecnologia instalada",
+            "Capacitacion ejecutada"
+        ],
+        "actividades": [
+            "Diseño",
+            "Adquisicion",
+            "Implementacion",
+            "Operacion"
+        ],
+        "indicadores": [
+            "Porcentaje de avance",
+            "Cobertura alcanzada",
+            "Nivel de productividad"
+        ],
+        "medios_verificacion": [
+            "Informes tecnicos",
+            "Registros operativos",
+            "Actas de seguimiento"
+        ],
+        "supuestos": [
+            "Disponibilidad financiera",
+            "Apoyo institucional",
+            "Condiciones favorables del entorno"
+        ]
+    },
+    "market": {
+        "poblacion_objetivo": 50000,
+        "aceptacion": 80.0,
+        "mercado_potencial": 40000.0,
+        "mercado_objetivo": 14000.0,
+        "demanda_potencial": 14000.0,
+        "demanda_efectiva": 10500.0,
+        "oferta_actual": 12000,
+        "demanda_insatisfecha": 0,
+        "indice_saturacion": 30.0,
+        "indice_viabilidad": 87.5,
+        "clasificacion": "ALTA"
+    },
+    "technical": {
+        "tamano": "Pequeña empresa",
+        "tecnologia": "Sistema logístico",
+        "infraestructura": "Patio de maniobras",
+        "equipos": [
+            "Camiones",
+            "GPS",
+            "Software de gestión"
+        ],
+        "personal": [
+            "Conductores",
+            "Supervisor",
+            "Administrador"
+        ]
+    },
+    "localization": {
+        "ubicacion_optima": "Riobamba",
+        "score_integral": 62.5,
+        "ranking": [
+            {
+                "Alternativa": "Riobamba",
+                "score_topsis": 0.6250076665213903
+            },
+            {
+                "Alternativa": "Ambato",
+                "score_topsis": 0.5268576260356921
+            },
+            {
+                "Alternativa": "Cuenca",
+                "score_topsis": 0.47705053319056506
+            },
+            {
+                "Alternativa": "Latacunga",
+                "score_topsis": 0.38961973873567485
+            }
+        ]
+    },
+    "size": {
+        "ubicacion_optima": "Riobamba",
+        "demanda_maxima": 12810,
+        "capacidad_instalada": 14091,
+        "categoria": "MEDIANO",
+        "factibilidad": "FACTIBLE",
+        "score_tamano": 79.96
+    }
+}

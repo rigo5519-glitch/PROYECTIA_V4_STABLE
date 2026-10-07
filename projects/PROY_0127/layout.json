@@ -1,0 +1,44 @@
+{
+    "categoria": "MEDIANO",
+    "superficie_total_m2": 1200,
+    "areas": [
+        {
+            "nombre": "Recepcion",
+            "porcentaje": 15,
+            "m2": 180.0
+        },
+        {
+            "nombre": "Produccion",
+            "porcentaje": 40,
+            "m2": 480.0
+        },
+        {
+            "nombre": "Control Calidad",
+            "porcentaje": 10,
+            "m2": 120.0
+        },
+        {
+            "nombre": "Almacenamiento",
+            "porcentaje": 20,
+            "m2": 240.0
+        },
+        {
+            "nombre": "Administracion",
+            "porcentaje": 10,
+            "m2": 120.0
+        },
+        {
+            "nombre": "Servicios",
+            "porcentaje": 5,
+            "m2": 60.0
+        }
+    ],
+    "flujo": [
+        "Recepcion",
+        "Produccion",
+        "Control Calidad",
+        "Almacenamiento",
+        "Despacho"
+    ],
+    "layout_tipo": "Lineal"
+}

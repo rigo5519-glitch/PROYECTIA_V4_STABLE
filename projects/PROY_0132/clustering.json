@@ -1,0 +1,24 @@
+{
+    "clusters": [
+        {
+            "Cluster": 0,
+            "Precio_Unitario": 25.75,
+            "Produccion": 14871.96,
+            "Costos": 93220.83,
+            "Ventas": 382411.4,
+            "VAN": 1336491.2
+        },
+        {
+            "Cluster": 1,
+            "Precio_Unitario": 24.33,
+            "Produccion": 13392.64,
+            "Costos": 94766.5,
+            "Ventas": 325270.66,
+            "VAN": 1004899.95
+        }
+    ],
+    "probabilidades": {
+        "1": 52.86,
+        "0": 47.14
+    }
+}

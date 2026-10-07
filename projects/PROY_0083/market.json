@@ -1,0 +1,13 @@
+{
+    "poblacion_objetivo": 50000,
+    "aceptacion": 80.0,
+    "mercado_potencial": 40000.0,
+    "mercado_objetivo": 14000.0,
+    "demanda_potencial": 14000.0,
+    "demanda_efectiva": 10500.0,
+    "oferta_actual": 12000,
+    "demanda_insatisfecha": 0,
+    "indice_saturacion": 30.0,
+    "indice_viabilidad": 87.5,
+    "clasificacion": "ALTA"
+}

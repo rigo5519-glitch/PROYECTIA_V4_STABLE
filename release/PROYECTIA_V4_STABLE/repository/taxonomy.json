@@ -1,0 +1,57 @@
+{
+  "Agropecuario": {
+    "keywords": [
+      "cuy",
+      "ganado",
+      "porcino",
+      "avicola",
+      "trucha",
+      "tilapia"
+    ],
+    "subsector": "Producción Pecuaria",
+    "productos": [
+      "Carne de cuy",
+      "Pie de cría"
+    ]
+  },
+
+  "Industria": {
+    "keywords": [
+      "lacteo",
+      "leche",
+      "queso",
+      "yogurt"
+    ],
+    "subsector": "Lácteos",
+    "productos": [
+      "Leche",
+      "Queso",
+      "Yogurt"
+    ]
+  },
+
+  "Reciclaje": {
+    "keywords": [
+      "reciclaje",
+      "neumatico",
+      "plastico"
+    ],
+    "subsector": "Residuos Sólidos",
+    "productos": [
+      "Material Reciclado"
+    ]
+  },
+
+  "Turismo": {
+    "keywords": [
+      "turismo",
+      "hosteria",
+      "hotel",
+      "ecoturismo"
+    ],
+    "subsector": "Servicios Turísticos",
+    "productos": [
+      "Servicios Turísticos"
+    ]
+  }
+}

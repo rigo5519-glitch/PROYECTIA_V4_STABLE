@@ -1,0 +1,17 @@
+{
+    "sector": "Reciclaje",
+
+    "subsectores": [
+        "Residuos Solidos",
+        "Plasticos",
+        "Neumaticos",
+        "Economia Circular"
+    ],
+
+    "problemas_frecuentes": [
+        "Bajo aprovechamiento de residuos",
+        "Limitada separacion en origen",
+        "Escasa infraestructura",
+        "Bajos niveles de reciclaje"
+    ]
+}

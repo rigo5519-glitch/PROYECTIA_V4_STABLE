@@ -1,0 +1,17 @@
+{
+    "sector": "Turismo",
+
+    "subsectores": [
+        "Turismo Comunitario",
+        "Ecoturismo",
+        "Turismo Rural",
+        "Turismo Cultural"
+    ],
+
+    "problemas_frecuentes": [
+        "Baja afluencia de visitantes",
+        "Infraestructura insuficiente",
+        "Escasa promocion",
+        "Limitada oferta de servicios"
+    ]
+}

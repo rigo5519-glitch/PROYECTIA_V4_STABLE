@@ -1,0 +1,17 @@
+{
+    "sector": "Industria",
+
+    "subsectores": [
+        "Agroindustria",
+        "Alimentos",
+        "Manufactura",
+        "Metalmecanica"
+    ],
+
+    "problemas_frecuentes": [
+        "Baja capacidad de procesamiento",
+        "Falta de valor agregado",
+        "Limitada tecnologia",
+        "Baja productividad"
+    ]
+}

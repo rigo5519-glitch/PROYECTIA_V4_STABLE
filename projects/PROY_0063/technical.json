@@ -1,0 +1,15 @@
+{
+    "tamano": "Planta de reciclaje",
+    "tecnologia": "Clasificación y procesamiento",
+    "infraestructura": "Centro de acopio",
+    "equipos": [
+        "Trituradora",
+        "Clasificadora",
+        "Prensa hidráulica"
+    ],
+    "personal": [
+        "Operarios",
+        "Supervisor",
+        "Administrador"
+    ]
+}

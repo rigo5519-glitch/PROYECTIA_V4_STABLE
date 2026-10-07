@@ -1,0 +1,49 @@
+{
+    "problema_central": "Bajo aprovechamiento industrial de la produccion",
+    "causas": [
+        {
+            "causa": "Limitada capacidad de procesamiento",
+            "subcausas": [
+                "Origen relacionado con Limitada capacidad de procesamiento",
+                "Limitaciones asociadas a Limitada capacidad de procesamiento"
+            ]
+        },
+        {
+            "causa": "Escasa tecnologia industrial",
+            "subcausas": [
+                "Origen relacionado con Escasa tecnologia industrial",
+                "Limitaciones asociadas a Escasa tecnologia industrial"
+            ]
+        },
+        {
+            "causa": "Bajo valor agregado",
+            "subcausas": [
+                "Origen relacionado con Bajo valor agregado",
+                "Limitaciones asociadas a Bajo valor agregado"
+            ]
+        }
+    ],
+    "efectos": [
+        {
+            "efecto": "Menores ingresos de productores",
+            "subefectos": [
+                "Impacto asociado a Menores ingresos de productores",
+                "Consecuencia derivada de Menores ingresos de productores"
+            ]
+        },
+        {
+            "efecto": "Perdida de competitividad",
+            "subefectos": [
+                "Impacto asociado a Perdida de competitividad",
+                "Consecuencia derivada de Perdida de competitividad"
+            ]
+        },
+        {
+            "efecto": "Desaprovechamiento productivo",
+            "subefectos": [
+                "Impacto asociado a Desaprovechamiento productivo",
+                "Consecuencia derivada de Desaprovechamiento productivo"
+            ]
+        }
+    ]
+}

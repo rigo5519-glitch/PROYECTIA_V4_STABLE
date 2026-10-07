@@ -1,0 +1,17 @@
+{
+    "sector": "Agricultura",
+
+    "subsectores": [
+        "Cultivos",
+        "Produccion Agricola",
+        "Riego",
+        "Agroexportacion"
+    ],
+
+    "problemas_frecuentes": [
+        "Baja productividad",
+        "Deficiencia de riego",
+        "Limitado acceso a tecnologia",
+        "Perdidas postcosecha"
+    ]
+}

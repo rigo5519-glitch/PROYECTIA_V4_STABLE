@@ -1,0 +1,24 @@
+{
+    "procesos": [
+        "Captacion de Clientes",
+        "Reservas",
+        "Prestacion del Servicio",
+        "Seguimiento",
+        "Fidelizacion"
+    ],
+    "sipoc": {
+        "Proveedor": "Usuarios",
+        "Entrada": "Datos",
+        "Proceso": "Evaluacion",
+        "Salida": "Resultados",
+        "Cliente": "Gerencia"
+    },
+    "cadena_valor": [
+        "Captacion",
+        "Validacion",
+        "Analitica",
+        "IA",
+        "XAI",
+        "Reportes"
+    ]
+}

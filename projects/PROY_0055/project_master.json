@@ -1,0 +1,172 @@
+{
+    "idea": {
+        "idea_original": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    "diagnostic": {
+        "experiencia": "Experiencia recuperada: PROY_0015",
+        "problema_central": "Bajo aprovechamiento de residuos solidos",
+        "causas": [
+            "Escasa separacion en origen",
+            "Infraestructura insuficiente",
+            "Limitada cultura ambiental"
+        ],
+        "efectos": [
+            "Contaminacion ambiental",
+            "Desperdicio de materiales",
+            "Baja economia circular"
+        ]
+    },
+    "problem_tree": {
+        "problema_central": "Bajo aprovechamiento de residuos solidos",
+        "causas": [
+            {
+                "causa": "Escasa separacion en origen",
+                "subcausas": [
+                    "Origen relacionado con Escasa separacion en origen",
+                    "Limitaciones asociadas a Escasa separacion en origen"
+                ]
+            },
+            {
+                "causa": "Infraestructura insuficiente",
+                "subcausas": [
+                    "Origen relacionado con Infraestructura insuficiente",
+                    "Limitaciones asociadas a Infraestructura insuficiente"
+                ]
+            },
+            {
+                "causa": "Limitada cultura ambiental",
+                "subcausas": [
+                    "Origen relacionado con Limitada cultura ambiental",
+                    "Limitaciones asociadas a Limitada cultura ambiental"
+                ]
+            }
+        ],
+        "efectos": [
+            {
+                "efecto": "Contaminacion ambiental",
+                "subefectos": [
+                    "Impacto asociado a Contaminacion ambiental",
+                    "Consecuencia derivada de Contaminacion ambiental"
+                ]
+            },
+            {
+                "efecto": "Desperdicio de materiales",
+                "subefectos": [
+                    "Impacto asociado a Desperdicio de materiales",
+                    "Consecuencia derivada de Desperdicio de materiales"
+                ]
+            },
+            {
+                "efecto": "Baja economia circular",
+                "subefectos": [
+                    "Impacto asociado a Baja economia circular",
+                    "Consecuencia derivada de Baja economia circular"
+                ]
+            }
+        ]
+    },
+    "objective_tree": {
+        "objetivo_general": "Incrementar aprovechamiento de residuos solidos",
+        "medios": [
+            "Fortalecer escasa separacion en origen",
+            "Fortalecer infraestructura insuficiente",
+            "Fortalecer limitada cultura ambiental"
+        ],
+        "fines": [
+            "Reducir contaminacion ambiental",
+            "Reducir desperdicio de materiales",
+            "Reducir baja economia circular"
+        ]
+    },
+    "logical_framework": {
+        "fin": "Contribuir al desarrollo sostenible del sector",
+        "proposito": "Incrementar aprovechamiento de residuos solidos",
+        "componentes": [
+            "Infraestructura implementada",
+            "Tecnologia instalada",
+            "Capacitacion ejecutada"
+        ],
+        "actividades": [
+            "Diseño",
+            "Adquisicion",
+            "Implementacion",
+            "Operacion"
+        ],
+        "indicadores": [
+            "Porcentaje de avance",
+            "Cobertura alcanzada",
+            "Nivel de productividad"
+        ],
+        "medios_verificacion": [
+            "Informes tecnicos",
+            "Registros operativos",
+            "Actas de seguimiento"
+        ],
+        "supuestos": [
+            "Disponibilidad financiera",
+            "Apoyo institucional",
+            "Condiciones favorables del entorno"
+        ]
+    },
+    "market": {
+        "poblacion_objetivo": 50000,
+        "aceptacion": 80.0,
+        "mercado_potencial": 40000.0,
+        "mercado_objetivo": 14000.0,
+        "demanda_potencial": 14000.0,
+        "demanda_efectiva": 10500.0,
+        "oferta_actual": 12000,
+        "demanda_insatisfecha": 0,
+        "indice_saturacion": 30.0,
+        "indice_viabilidad": 87.5,
+        "clasificacion": "ALTA"
+    },
+    "technical": {
+        "tamano": "Planta de reciclaje",
+        "tecnologia": "Clasificación y procesamiento",
+        "infraestructura": "Centro de acopio",
+        "equipos": [
+            "Trituradora",
+            "Clasificadora",
+            "Prensa hidráulica"
+        ],
+        "personal": [
+            "Operarios",
+            "Supervisor",
+            "Administrador"
+        ]
+    },
+    "localization": {
+        "ubicacion_optima": "Riobamba",
+        "score_integral": 62.5,
+        "ranking": [
+            {
+                "Alternativa": "Riobamba",
+                "score_topsis": 0.6250076665213903
+            },
+            {
+                "Alternativa": "Ambato",
+                "score_topsis": 0.5268576260356921
+            },
+            {
+                "Alternativa": "Cuenca",
+                "score_topsis": 0.47705053319056506
+            },
+            {
+                "Alternativa": "Latacunga",
+                "score_topsis": 0.38961973873567485
+            }
+        ]
+    },
+    "size": {
+        "ubicacion_optima": "Riobamba",
+        "demanda_maxima": 12810,
+        "capacidad_instalada": 14091,
+        "categoria": "MEDIANO",
+        "factibilidad": "FACTIBLE",
+        "score_tamano": 79.96
+    }
+}

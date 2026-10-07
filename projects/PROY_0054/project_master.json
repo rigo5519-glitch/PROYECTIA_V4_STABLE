@@ -1,0 +1,172 @@
+{
+    "idea": {
+        "idea_original": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    "diagnostic": {
+        "experiencia": "Experiencia recuperada: PROY_0014",
+        "problema_central": "Baja afluencia de visitantes",
+        "causas": [
+            "Escasa promocion turistica",
+            "Infraestructura insuficiente",
+            "Oferta limitada de servicios"
+        ],
+        "efectos": [
+            "Bajos ingresos locales",
+            "Menor dinamizacion economica",
+            "Poco desarrollo territorial"
+        ]
+    },
+    "problem_tree": {
+        "problema_central": "Baja afluencia de visitantes",
+        "causas": [
+            {
+                "causa": "Escasa promocion turistica",
+                "subcausas": [
+                    "Origen relacionado con Escasa promocion turistica",
+                    "Limitaciones asociadas a Escasa promocion turistica"
+                ]
+            },
+            {
+                "causa": "Infraestructura insuficiente",
+                "subcausas": [
+                    "Origen relacionado con Infraestructura insuficiente",
+                    "Limitaciones asociadas a Infraestructura insuficiente"
+                ]
+            },
+            {
+                "causa": "Oferta limitada de servicios",
+                "subcausas": [
+                    "Origen relacionado con Oferta limitada de servicios",
+                    "Limitaciones asociadas a Oferta limitada de servicios"
+                ]
+            }
+        ],
+        "efectos": [
+            {
+                "efecto": "Bajos ingresos locales",
+                "subefectos": [
+                    "Impacto asociado a Bajos ingresos locales",
+                    "Consecuencia derivada de Bajos ingresos locales"
+                ]
+            },
+            {
+                "efecto": "Menor dinamizacion economica",
+                "subefectos": [
+                    "Impacto asociado a Menor dinamizacion economica",
+                    "Consecuencia derivada de Menor dinamizacion economica"
+                ]
+            },
+            {
+                "efecto": "Poco desarrollo territorial",
+                "subefectos": [
+                    "Impacto asociado a Poco desarrollo territorial",
+                    "Consecuencia derivada de Poco desarrollo territorial"
+                ]
+            }
+        ]
+    },
+    "objective_tree": {
+        "objetivo_general": "Incrementar afluencia de visitantes",
+        "medios": [
+            "Fortalecer escasa promocion turistica",
+            "Fortalecer infraestructura insuficiente",
+            "Fortalecer oferta limitada de servicios"
+        ],
+        "fines": [
+            "Reducir bajos ingresos locales",
+            "Reducir menor dinamizacion economica",
+            "Reducir poco desarrollo territorial"
+        ]
+    },
+    "logical_framework": {
+        "fin": "Contribuir al desarrollo sostenible del sector",
+        "proposito": "Incrementar afluencia de visitantes",
+        "componentes": [
+            "Infraestructura implementada",
+            "Tecnologia instalada",
+            "Capacitacion ejecutada"
+        ],
+        "actividades": [
+            "Diseño",
+            "Adquisicion",
+            "Implementacion",
+            "Operacion"
+        ],
+        "indicadores": [
+            "Porcentaje de avance",
+            "Cobertura alcanzada",
+            "Nivel de productividad"
+        ],
+        "medios_verificacion": [
+            "Informes tecnicos",
+            "Registros operativos",
+            "Actas de seguimiento"
+        ],
+        "supuestos": [
+            "Disponibilidad financiera",
+            "Apoyo institucional",
+            "Condiciones favorables del entorno"
+        ]
+    },
+    "market": {
+        "poblacion_objetivo": 50000,
+        "aceptacion": 80.0,
+        "mercado_potencial": 40000.0,
+        "mercado_objetivo": 14000.0,
+        "demanda_potencial": 14000.0,
+        "demanda_efectiva": 10500.0,
+        "oferta_actual": 12000,
+        "demanda_insatisfecha": 0,
+        "indice_saturacion": 30.0,
+        "indice_viabilidad": 87.5,
+        "clasificacion": "ALTA"
+    },
+    "technical": {
+        "tamano": "Centro turístico",
+        "tecnologia": "Servicios turísticos",
+        "infraestructura": "Complejo turístico",
+        "equipos": [
+            "Mobiliario",
+            "Equipamiento recreativo",
+            "Sistema de reservas"
+        ],
+        "personal": [
+            "Guías",
+            "Administrador",
+            "Personal operativo"
+        ]
+    },
+    "localization": {
+        "ubicacion_optima": "Riobamba",
+        "score_integral": 62.5,
+        "ranking": [
+            {
+                "Alternativa": "Riobamba",
+                "score_topsis": 0.6250076665213903
+            },
+            {
+                "Alternativa": "Ambato",
+                "score_topsis": 0.5268576260356921
+            },
+            {
+                "Alternativa": "Cuenca",
+                "score_topsis": 0.47705053319056506
+            },
+            {
+                "Alternativa": "Latacunga",
+                "score_topsis": 0.38961973873567485
+            }
+        ]
+    },
+    "size": {
+        "ubicacion_optima": "Riobamba",
+        "demanda_maxima": 12810,
+        "capacidad_instalada": 14091,
+        "categoria": "MEDIANO",
+        "factibilidad": "FACTIBLE",
+        "score_tamano": 79.96
+    }
+}

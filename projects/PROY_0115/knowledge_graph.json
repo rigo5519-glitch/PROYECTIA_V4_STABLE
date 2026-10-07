@@ -1,0 +1,121 @@
+{
+    "nodos": [
+        {
+            "id": "problema",
+            "label": "Problema no identificado",
+            "tipo": "Problema"
+        },
+        {
+            "id": "objetivo",
+            "label": "Mejorar problema no identificado",
+            "tipo": "Objetivo"
+        },
+        {
+            "id": "mercado",
+            "label": "Mercado Objetivo",
+            "tipo": "Mercado"
+        },
+        {
+            "id": "marketing",
+            "label": "Servicio",
+            "tipo": "Marketing"
+        },
+        {
+            "id": "localizacion",
+            "label": "Riobamba",
+            "tipo": "Localizacion"
+        },
+        {
+            "id": "tamano",
+            "label": "14091",
+            "tipo": "Capacidad"
+        },
+        {
+            "id": "workforce",
+            "label": "Talento Humano",
+            "tipo": "Workforce"
+        },
+        {
+            "id": "process",
+            "label": "Procesos",
+            "tipo": "Proceso"
+        },
+        {
+            "id": "investment",
+            "label": "297500.0",
+            "tipo": "Inversion"
+        },
+        {
+            "id": "costs",
+            "label": "93981.96",
+            "tipo": "Costos"
+        },
+        {
+            "id": "revenue",
+            "label": "350000.0",
+            "tipo": "Ingresos"
+        },
+        {
+            "id": "van",
+            "label": "704804.02",
+            "tipo": "VAN"
+        }
+    ],
+    "relaciones": [
+        {
+            "source": "problema",
+            "target": "objetivo",
+            "tipo": "resuelve"
+        },
+        {
+            "source": "objetivo",
+            "target": "mercado",
+            "tipo": "atiende"
+        },
+        {
+            "source": "mercado",
+            "target": "marketing",
+            "tipo": "comercializa"
+        },
+        {
+            "source": "marketing",
+            "target": "localizacion",
+            "tipo": "opera_en"
+        },
+        {
+            "source": "localizacion",
+            "target": "tamano",
+            "tipo": "permite"
+        },
+        {
+            "source": "tamano",
+            "target": "workforce",
+            "tipo": "requiere"
+        },
+        {
+            "source": "workforce",
+            "target": "process",
+            "tipo": "ejecuta"
+        },
+        {
+            "source": "process",
+            "target": "investment",
+            "tipo": "requiere"
+        },
+        {
+            "source": "investment",
+            "target": "costs",
+            "tipo": "genera"
+        },
+        {
+            "source": "costs",
+            "target": "revenue",
+            "tipo": "condiciona"
+        },
+        {
+            "source": "revenue",
+            "target": "van",
+            "tipo": "impacta"
+        }
+    ]
+}

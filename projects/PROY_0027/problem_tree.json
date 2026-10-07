@@ -1,0 +1,49 @@
+{
+    "problema_central": "Bajo aprovechamiento de residuos solidos",
+    "causas": [
+        {
+            "causa": "Escasa separacion en origen",
+            "subcausas": [
+                "Origen relacionado con Escasa separacion en origen",
+                "Limitaciones asociadas a Escasa separacion en origen"
+            ]
+        },
+        {
+            "causa": "Infraestructura insuficiente",
+            "subcausas": [
+                "Origen relacionado con Infraestructura insuficiente",
+                "Limitaciones asociadas a Infraestructura insuficiente"
+            ]
+        },
+        {
+            "causa": "Limitada cultura ambiental",
+            "subcausas": [
+                "Origen relacionado con Limitada cultura ambiental",
+                "Limitaciones asociadas a Limitada cultura ambiental"
+            ]
+        }
+    ],
+    "efectos": [
+        {
+            "efecto": "Contaminacion ambiental",
+            "subefectos": [
+                "Impacto asociado a Contaminacion ambiental",
+                "Consecuencia derivada de Contaminacion ambiental"
+            ]
+        },
+        {
+            "efecto": "Desperdicio de materiales",
+            "subefectos": [
+                "Impacto asociado a Desperdicio de materiales",
+                "Consecuencia derivada de Desperdicio de materiales"
+            ]
+        },
+        {
+            "efecto": "Baja economia circular",
+            "subefectos": [
+                "Impacto asociado a Baja economia circular",
+                "Consecuencia derivada de Baja economia circular"
+            ]
+        }
+    ]
+}

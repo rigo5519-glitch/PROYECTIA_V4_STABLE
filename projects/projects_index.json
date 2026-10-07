@@ -1,0 +1,863 @@
+[
+    {
+        "project_id": "PROY_0012",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0013",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0014",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0015",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0016",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0017",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0018",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0019",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0020",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0021",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0022",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0023",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0024",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0025",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0026",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0027",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0028",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0029",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0030",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0031",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0032",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0033",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0034",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0035",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0036",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0037",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0038",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0039",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0040",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0041",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0042",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0043",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0044",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0045",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0046",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0047",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0048",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0049",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0050",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0051",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0052",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0053",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0054",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0055",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0056",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0057",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0058",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0059",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0060",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0061",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0062",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0063",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0064",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0065",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0066",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0067",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0068",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0069",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0070",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0071",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0072",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0073",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0074",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0075",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0076",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0077",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0078",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0079",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0080",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0081",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0082",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0083",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0084",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0085",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0086",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0087",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0088",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0089",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0090",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0091",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0092",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0093",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0094",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0095",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0096",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0097",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0098",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0099",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0100",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0101",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0102",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0103",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0104",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0105",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0106",
+        "idea": "Quiero implementar una planta procesadora de lacteos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0107",
+        "idea": "Quiero crear una empresa de transporte pesado",
+        "sector": "Transporte",
+        "subsector": "Carga Pesada",
+        "actividad": "Servicios de transporte"
+    },
+    {
+        "project_id": "PROY_0108",
+        "idea": "Quiero desarrollar un centro turistico comunitario",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0109",
+        "idea": "Quiero instalar una planta de reciclaje de neumaticos",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0110",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "No identificado",
+        "subsector": "No identificado",
+        "actividad": "No identificada"
+    },
+    {
+        "project_id": "PROY_0111",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "No identificado",
+        "subsector": "No identificado",
+        "actividad": "No identificada"
+    },
+    {
+        "project_id": "PROY_0112",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "No identificado",
+        "subsector": "No identificado",
+        "actividad": "No identificada"
+    },
+    {
+        "project_id": "PROY_0113",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "No identificado",
+        "subsector": "No identificado",
+        "actividad": "No identificada"
+    },
+    {
+        "project_id": "PROY_0114",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "No identificado",
+        "subsector": "No identificado",
+        "actividad": "No identificada"
+    },
+    {
+        "project_id": "PROY_0115",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "No identificado",
+        "subsector": "No identificado",
+        "actividad": "No identificada"
+    },
+    {
+        "project_id": "PROY_0116",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "No identificado",
+        "subsector": "No identificado",
+        "actividad": "No identificada"
+    },
+    {
+        "project_id": "PROY_0117",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "Agropecuario",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0118",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "Agropecuario",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0119",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "Agropecuario",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0120",
+        "idea": "",
+        "sector": "No identificado",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0121",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "Agropecuario",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0122",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "Agropecuario",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0123",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "Agropecuario",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0124",
+        "idea": "Proyecto productivo de crianza y comercialización de cuyes en Chimborazo",
+        "sector": "Agropecuario",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0125",
+        "idea": "Planta de producción de leche pasteurizada y derivados lácteos en Riobamba",
+        "sector": "Industria",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0126",
+        "idea": "Centro ecoturístico comunitario en Alausí para turismo de naturaleza y aventura",
+        "sector": "Turismo",
+        "subsector": "Produccion Pecuaria",
+        "actividad": "Crianza y comercializacion pecuaria"
+    },
+    {
+        "project_id": "PROY_0127",
+        "idea": "Centro ecoturístico comunitario en Alausí para turismo de naturaleza y aventura",
+        "sector": "Turismo",
+        "subsector": "Turismo Comunitario",
+        "actividad": "Servicios turisticos"
+    },
+    {
+        "project_id": "PROY_0128",
+        "idea": "Planta de reciclaje de neumáticos fuera de uso en Chimborazo",
+        "sector": "Reciclaje",
+        "subsector": "Residuos Solidos",
+        "actividad": "Gestion de residuos"
+    },
+    {
+        "project_id": "PROY_0129",
+        "idea": "Centro de acopio y procesamiento de cacao fino de aroma en la provincia de Los Ríos",
+        "sector": "No identificado",
+        "subsector": "No identificado",
+        "actividad": "No identificada"
+    },
+    {
+        "project_id": "PROY_0130",
+        "idea": "Centro de acopio y procesamiento de cacao fino de aroma en la provincia de Los Ríos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0131",
+        "idea": "Centro de acopio y procesamiento de cacao fino de aroma en la provincia de Los Ríos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Procesamiento de lacteos"
+    },
+    {
+        "project_id": "PROY_0132",
+        "idea": "Centro de acopio y procesamiento de cacao fino de aroma en la provincia de Los Ríos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Acopio y procesamiento de cacao"
+    },
+    {
+        "project_id": "PROY_0133",
+        "idea": "Centro de acopio y procesamiento de cacao fino de aroma en la provincia de Los Ríos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Acopio y procesamiento de cacao"
+    },
+    {
+        "project_id": "PROY_0134",
+        "idea": "Centro de acopio y procesamiento de cacao fino de aroma en la provincia de Los Ríos",
+        "sector": "Industria",
+        "subsector": "Agroindustria",
+        "actividad": "Acopio y procesamiento de cacao"
+    }
+]

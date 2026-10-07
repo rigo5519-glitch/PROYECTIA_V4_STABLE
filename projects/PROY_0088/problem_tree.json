@@ -1,0 +1,49 @@
+{
+    "problema_central": "Baja afluencia de visitantes",
+    "causas": [
+        {
+            "causa": "Escasa promocion turistica",
+            "subcausas": [
+                "Origen relacionado con Escasa promocion turistica",
+                "Limitaciones asociadas a Escasa promocion turistica"
+            ]
+        },
+        {
+            "causa": "Infraestructura insuficiente",
+            "subcausas": [
+                "Origen relacionado con Infraestructura insuficiente",
+                "Limitaciones asociadas a Infraestructura insuficiente"
+            ]
+        },
+        {
+            "causa": "Oferta limitada de servicios",
+            "subcausas": [
+                "Origen relacionado con Oferta limitada de servicios",
+                "Limitaciones asociadas a Oferta limitada de servicios"
+            ]
+        }
+    ],
+    "efectos": [
+        {
+            "efecto": "Bajos ingresos locales",
+            "subefectos": [
+                "Impacto asociado a Bajos ingresos locales",
+                "Consecuencia derivada de Bajos ingresos locales"
+            ]
+        },
+        {
+            "efecto": "Menor dinamizacion economica",
+            "subefectos": [
+                "Impacto asociado a Menor dinamizacion economica",
+                "Consecuencia derivada de Menor dinamizacion economica"
+            ]
+        },
+        {
+            "efecto": "Poco desarrollo territorial",
+            "subefectos": [
+                "Impacto asociado a Poco desarrollo territorial",
+                "Consecuencia derivada de Poco desarrollo territorial"
+            ]
+        }
+    ]
+}

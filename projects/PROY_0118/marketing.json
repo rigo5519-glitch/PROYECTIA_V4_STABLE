@@ -1,0 +1,22 @@
+{
+    "producto": "Carne de cuy",
+    "precio": "Competitivo",
+    "plaza": "Mercado regional",
+    "promocion": [
+        "Redes Sociales",
+        "Página Web",
+        "Publicidad local"
+    ],
+    "canales": [
+        "Restaurantes",
+        "Mercados",
+        "Consumidor final"
+    ],
+    "segmentacion": {
+        "geografica": "Regional",
+        "demografica": "Población económicamente activa",
+        "socioeconomica": "Media"
+    },
+    "estrategia": "Penetración de mercado",
+    "mercado_objetivo": 14000.0
+}

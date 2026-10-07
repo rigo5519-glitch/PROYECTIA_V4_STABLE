@@ -1,0 +1,15 @@
+{
+    "tamano": "Pequeña industria",
+    "tecnologia": "Semiindustrial",
+    "infraestructura": "Planta de procesamiento",
+    "equipos": [
+        "Tanque de enfriamiento",
+        "Pasteurizador",
+        "Envasadora"
+    ],
+    "personal": [
+        "Operador",
+        "Supervisor",
+        "Administrador"
+    ]
+}

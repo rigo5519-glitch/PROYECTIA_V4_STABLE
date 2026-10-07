@@ -1,0 +1,49 @@
+{
+    "problema_central": "Deficiente prestacion de servicios de transporte",
+    "causas": [
+        {
+            "causa": "Flota insuficiente",
+            "subcausas": [
+                "Origen relacionado con Flota insuficiente",
+                "Limitaciones asociadas a Flota insuficiente"
+            ]
+        },
+        {
+            "causa": "Altos costos operativos",
+            "subcausas": [
+                "Origen relacionado con Altos costos operativos",
+                "Limitaciones asociadas a Altos costos operativos"
+            ]
+        },
+        {
+            "causa": "Problemas logisticos",
+            "subcausas": [
+                "Origen relacionado con Problemas logisticos",
+                "Limitaciones asociadas a Problemas logisticos"
+            ]
+        }
+    ],
+    "efectos": [
+        {
+            "efecto": "Baja cobertura de servicio",
+            "subefectos": [
+                "Impacto asociado a Baja cobertura de servicio",
+                "Consecuencia derivada de Baja cobertura de servicio"
+            ]
+        },
+        {
+            "efecto": "Incremento de costos",
+            "subefectos": [
+                "Impacto asociado a Incremento de costos",
+                "Consecuencia derivada de Incremento de costos"
+            ]
+        },
+        {
+            "efecto": "Perdida de competitividad",
+            "subefectos": [
+                "Impacto asociado a Perdida de competitividad",
+                "Consecuencia derivada de Perdida de competitividad"
+            ]
+        }
+    ]
+}

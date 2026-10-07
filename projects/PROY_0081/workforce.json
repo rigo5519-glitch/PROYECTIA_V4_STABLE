@@ -1,0 +1,17 @@
+{
+    "categoria": "MEDIANO",
+    "personal": {
+        "Gerente": 1,
+        "Supervisor": 2,
+        "Operarios": 8,
+        "Administrativo": 2
+    },
+    "salarios": {
+        "Gerente": 1800,
+        "Supervisor": 1200,
+        "Operarios": 700,
+        "Administrativo": 900
+    },
+    "costo_mensual": 11600,
+    "costo_anual": 139200
+}
